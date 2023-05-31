@@ -1,0 +1,15 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›âúÒ8“„È†ú0
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(¯ĞÜÿ8”ñ‡øù0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚâĞûÿÿÿÿ8”ñ‡øù0
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(¼Øûì8ñ‡øù0
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(¯æÏ8ñ‡øù0
+V
+java:S1128"9Remove this unused import 'sun.font.StandardGlyphVector'.(¯ĞÜÿ8ó‰øù0
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8í™úù0

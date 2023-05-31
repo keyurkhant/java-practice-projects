@@ -1,0 +1,9 @@
+
+q
+java:S2095L"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(â…ÍÆÿÿÿÿÿ8¾Æ½Ðù0
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª‹ìå8½Æ½Ðù0
+q
+java:S2095c"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(â…ÍÆÿÿÿÿÿ8¾Æ½Ðù0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰æ¸ö8ÃÆ½Ðù0

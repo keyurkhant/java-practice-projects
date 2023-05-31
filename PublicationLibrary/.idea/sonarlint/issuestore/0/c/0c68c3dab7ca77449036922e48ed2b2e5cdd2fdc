@@ -1,0 +1,23 @@
+
+h
+java:S1192-"FDefine a constant instead of duplicating this literal "issue" 3 times.(æâÔúÿÿÿÿ8Í¤»Úù0
+i
+java:S1192,"GDefine a constant instead of duplicating this literal "volume" 3 times.(Ô© Æÿÿÿÿÿ8Í¤»Úù0
+b
+java:S1192+"FDefine a constant instead of duplicating this literal "pages" 3 times.(²±È-8Í¤»Úù0
+c
+java:S1192."FDefine a constant instead of duplicating this literal "month" 3 times.(õŒÎ¨8Í¤»Úù0
+e
+java:S11920"IDefine a constant instead of duplicating this literal "location" 4 times.(Œ†«8Í¤»Úù0
+o
+java:S1854U"MRemove this useless assignment to local variable "allPublicationInformation".(åƒÈùÿÿÿÿ8Ş¤»Úù0
+`
+java:S1481U">Remove this unused "allPublicationInformation" local variable.(åƒÈùÿÿÿÿ8ß¤»Úù0
+A
+java:S1168X"$Return an empty map instead of null.(¯ö â8ß¤»Úù0
+W
+java:S1117[";Rename "authors" which hides the field declared at line 26.(öóö8ß¤»Úù0
+A
+java:S1168m"$Return an empty map instead of null.(¥¹ï8à¤»Úù0
+B
+java:S1168¡"$Return an empty map instead of null.(¥¹ï8â¤»Úù0

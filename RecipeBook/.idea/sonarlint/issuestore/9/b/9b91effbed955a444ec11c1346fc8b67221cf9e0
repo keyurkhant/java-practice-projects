@@ -1,0 +1,15 @@
+
+J
+java:S10662"/Merge this if statement with the enclosing one.(Å¨¶ûûÿÿÿÿ
+k
+java:S1104"UMake THRESHOLD a static final constant or non-public and provide accessors if needed.(–ÎüÎ
+E
+java:S1444"/Make this "public static THRESHOLD" field final(–ÎüÎ
+0
+java:S1220""Move this file to a named package.
+j
+java:S3008"TRename this field "THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÎüÎ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¬—¥
+@
+java:S6326'"%Replace spaces with quantifier `{2}`.(Ö“‹üÿÿÿÿ

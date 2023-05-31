@@ -1,0 +1,25 @@
+
+7
+java:S1220""Move this file to a named package.8´­¸ˆñ0
+}
+java:S3008
+"aRename this field "PUZZLE_DIMENSION_REGEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¸Ò}8Ã®¸ˆñ0
+
+java:S3008"_Rename this field "DIRECTION_LINE_REGEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¼ãúÿÿÿÿ8Ã®¸ˆñ0
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×‰òÍÿÿÿÿÿ8Ä®¸ˆñ0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(èŠ›æ8È®¸ˆñ0
+u
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‡¤ÁÏúÿÿÿÿ8Í®¸ˆñ0
+D
+java:S1168³"&Return an empty array instead of null.(¥¹ï8Î®¸ˆñ0
+p
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¡ğÀ’8Î®¸ˆñ0
+I
+java:S1168½"&Return an empty array instead of null.(˜Æ¸ƒùÿÿÿÿ8Î®¸ˆñ0
+D
+java:S1168Î"&Return an empty array instead of null.(¥¹ï8Ï®¸ˆñ0
+D
+java:S1168×"&Return an empty array instead of null.(¥¹ï8Ï®¸ˆñ0
+V	java:S106ô"9Replace this use of System.out or System.err by a logger.(ëÑÙ8Ğ®¸ˆñ0
